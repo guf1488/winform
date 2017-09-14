@@ -14,6 +14,7 @@ namespace WinForm
     {
         public Form1()
         {
+            // ekz
             InitializeComponent();
         }
     }
